@@ -125,12 +125,6 @@ El proyecto se dividía en tres partes fundamentales: una, la programación de l
 
 ## Contacto:
 
-<a href="tel:+34692721061" style="text-decoration: none;">
-  <div style="background-color: #D14836; width: 180px; height: 35px; border-radius: 5px; display: flex; align-items: center; justify-content: center;">
-    <span style="color: white; font-weight: bold;">Llamar 692 72 10 61</span>
-  </div>
-</a>
-
+[![Teléfono](https://img.shields.io/badge/692721061-tel%C3%A9fono-D14836?style=for-the-badge&logoColor=white&labelColor=101010)](tel:+34692721061)
 </br>
-
 [![Email](https://img.shields.io/badge/leal.adrian.vacas@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:leal.adrian.vacas@gmail.com)
