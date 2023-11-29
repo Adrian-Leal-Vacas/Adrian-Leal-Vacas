@@ -14,17 +14,23 @@ Para empezar este camino, comencé a crear mi propia página web de código libr
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 </br>
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)]()
 </br>
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=101010)](https://vuejs.org/)
+[![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white&labelColor=101010)]()
 </br>
 [![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+</br>
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
 
@@ -82,34 +88,34 @@ El proyecto se dividía en tres partes fundamentales: una, la programación de l
 <tr>
 <td>
 <a href="https://youtu.be/3yitkY4rmiA">
-<img src="https://i9.ytimg.com/vi/3yitkY4rmiA/mqdefault.jpg?v=64039494&sqp=COju-qkG&rs=AOn4CLCoVgjfe49MXNJsJIxJNM5x5NXQ6A">
+<img src="https://raw.githubusercontent.com/Adrian-Leal-Vacas/Adrian-Leal-Vacas/main/tutotialJavaDoc.jpg">
 </a>
 </td>
 <td>
 <a href="https://youtu.be/UmAgUDb1epc">
-<img src="https://i9.ytimg.com/vi/UmAgUDb1epc/mqdefault.jpg?sqp=COju-qkG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDkgZSg5MA8=&rs=AOn4CLD7GPebTHenc1TwyE-OC3SlckCe9g">
+<img src="https://raw.githubusercontent.com/Adrian-Leal-Vacas/Adrian-Leal-Vacas/main/blackJack.jpg">
 </a>
 </td>
 <td>
 <a href="https://youtu.be/hNYjdFezJ5Y">
-<img src="https://i9.ytimg.com/vi_webp/hNYjdFezJ5Y/mqdefault.webp?v=653eb869&sqp=COju-qkG&rs=AOn4CLBkdEh5wuGLlj8KkFg3QLu8FsVoNg">
+<img src="https://raw.githubusercontent.com/Adrian-Leal-Vacas/Adrian-Leal-Vacas/main/presentacionSMR.jpg">
 </a>
 </td>
 </tr>
 <tr>
 <td>
 <a href="https://youtu.be/IxD1kIY0E4A">
-<img src="https://i9.ytimg.com/vi/IxD1kIY0E4A/mqdefault.jpg?v=61a79f71&sqp=COju-qkG&rs=AOn4CLAxK7KcARoQefNXmhX7pkioml7dBg">
+<img src="https://raw.githubusercontent.com/Adrian-Leal-Vacas/Adrian-Leal-Vacas/main/tutorialVNC.jpg">
 </a>
 </td>
 <td>
 <a href="https://youtu.be/YtbnlRdORIA">
-<img src="https://i9.ytimg.com/vi_webp/YtbnlRdORIA/mqdefault.webp?v=6181bbd6&sqp=COju-qkG&rs=AOn4CLDiLHXfOzpKjiMXFMRXmdfHrf0z_g">
+<img src="https://raw.githubusercontent.com/Adrian-Leal-Vacas/Adrian-Leal-Vacas/main/tutorialXamppWordpress.jpg">
 </a>
 </td>
 <td>
 <a href="https://youtu.be/o2f69LanDI8">
-<img src="https://i9.ytimg.com/vi_webp/o2f69LanDI8/mqdefault.webp?v=61e9507a&sqp=COju-qkG&rs=AOn4CLDGmjn727gThRNKgORrGH6YTeqrUg">
+<img src="https://raw.githubusercontent.com/Adrian-Leal-Vacas/Adrian-Leal-Vacas/main/NoEncontrada.jpg">
 </a>
 </td>
 </tr>
@@ -119,12 +125,6 @@ El proyecto se dividía en tres partes fundamentales: una, la programación de l
 
 ## Contacto:
 
-<a href="tel:+34692721061" style="text-decoration: none;">
-  <div style="background-color: #D14836; width: 180px; height: 35px; border-radius: 5px; display: flex; align-items: center; justify-content: center;">
-    <span style="color: white; font-weight: bold;">Llamar 692 72 10 61</span>
-  </div>
-</a>
-
+[![Llámame](https://img.shields.io/badge/LLAMAR_692_72_10_61-D14836?style=for-the-badge&logoColor=white&labelColor=101010)](tel:+34692721061)
 </br>
-
 [![Email](https://img.shields.io/badge/leal.adrian.vacas@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:leal.adrian.vacas@gmail.com)
